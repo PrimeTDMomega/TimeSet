@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'me.prime'
-version = '1.0-BETA'
+version = '1.0'
 
 repositories {
     mavenCentral()
