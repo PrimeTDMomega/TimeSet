@@ -3,3 +3,7 @@ version: '${version}'
 main: me.prime.timeset.TimeSet
 api-version: '1.20'
 load: STARTUP
+commands:
+  ts:
+    description: Enable/Disable TimeSet
+    usage: /<command>
